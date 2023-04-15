@@ -3,3 +3,17 @@
 2 - Completed Works
 3 - Prototypes
 4 - Contact
+
+
+
+Lead a team of 4 to come up top in the Quick Play 2022 Game Development Competition, winning $20k prize. Developed the winning game, Pulang Kampung, within 1 week.
+
+Launched a mini golf game on Google Play that crossed the 5m+ downloads mark within 2 months, and a football game that also had similar success (and is currently above 20m+ downloads).
+
+Developed a 2D settlement-building with tower defense style game within 10 days for the GDevelop game jam competition, bagging the 2nd prize.
+
+Lead a team of 3 to complete tug-of-war style real-time strategy game, within 2 weeks.
+
+Completed numerous prototype games ranging from realistic first-person horror, city building, building contruction, deck-building, a football game played by tanks and many more as listed on the prototypes page.
+
+
