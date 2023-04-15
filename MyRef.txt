@@ -17,3 +17,8 @@ Lead a team of 3 to complete tug-of-war style real-time strategy game, within 2 
 Completed numerous prototype games ranging from realistic first-person horror, city building, building contruction, deck-building, a football game played by tanks and many more as listed on the prototypes page.
 
 
+Led a team of four to win first place and a $20k prize in the Quick Play 2022 Game Development Competition, having developed the award-winning game, Pulang Kampung, within a one-week timeframe.
+Successfully launched a mini golf game on Google Play that exceeded 5 million downloads within two months, as well as a football game that has achieved similar success with over 20 million downloads to date.
+Developed a 2D settlement-building game with a tower defense-style gameplay mechanic within 10 days for the GDevelop game jam competition, earning second place.
+Led a team of three to successfully complete a real-time strategy game with tug-of-war gameplay mechanics within a two-week timeframe.
+Completed numerous prototype games, including a realistic first-person horror game, a city building game, a building construction game, a deck-building game, and a football game played by tanks, among others as showcased on the prototypes page.
