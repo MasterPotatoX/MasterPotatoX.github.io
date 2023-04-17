@@ -5,7 +5,6 @@
 4 - Contact
 
 
-open links in new tab
 education section
 elaborate work experience
 
