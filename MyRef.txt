@@ -5,6 +5,9 @@
 4 - Contact
 
 
+open links in new tab
+education section
+elaborate work experience
 
 Lead a team of 4 to come up top in the Quick Play 2022 Game Development Competition, winning $20k prize. Developed the winning game, Pulang Kampung, within 1 week.
 
