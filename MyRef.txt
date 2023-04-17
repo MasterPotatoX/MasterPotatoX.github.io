@@ -6,6 +6,7 @@
 ***************************
 
 add more prototypes
+break other prototypes section to only show 3 prototypes in a row
 
 ***********************
 Lead a team of 4 to come up top in the Quick Play 2022 Game Development Competition, winning $20k prize. Developed the winning game, Pulang Kampung, within 1 week.
