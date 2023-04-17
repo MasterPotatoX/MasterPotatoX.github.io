@@ -3,11 +3,15 @@
 2 - Completed Works
 3 - Prototypes
 4 - Contact
+***************************
 
 
-education section
 elaborate work experience
+add download resume link
 
+
+
+***********************
 Lead a team of 4 to come up top in the Quick Play 2022 Game Development Competition, winning $20k prize. Developed the winning game, Pulang Kampung, within 1 week.
 
 Launched a mini golf game on Google Play that crossed the 5m+ downloads mark within 2 months, and a football game that also had similar success (and is currently above 20m+ downloads).
